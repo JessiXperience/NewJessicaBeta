@@ -1,0 +1,8 @@
+{
+    "hit.ring":
+    {
+        "category": "master",
+        "subtitle": "hit.ring",
+        "sounds": [{ "name": "infinity/sounds/hit", "stream": true }]
+    }
+}
