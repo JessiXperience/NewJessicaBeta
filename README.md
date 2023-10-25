@@ -1,3 +1,17 @@
+<div align="center">
+<p>
+    <img width="200" src="https://github.com/JessiXperience/NewJessica/blob/alpha/NewJessica_logo.png">
+</p>
+
+[Matrix](#) |
+[Telegram](https://t.me/JessiXperience) |
+[Github](https://github.com/JessiXperience) |
+[Owner](https://t.me/Sompetch) |
+[Youtube](#) |
+[Mastodon](https://mastodon.ml/@Sompetch) |
+[Email](mailto:JessiXperience@riseup.net)
+</div>
+
 NewJessica это продолжение чита Jessica, созданного в 2018 году. Мы добавили HvH модули, новый дизайн, краши, и многое другое! 🚀
 
 ## 📅 **Дата Релиза:**
