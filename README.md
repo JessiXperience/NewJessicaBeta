@@ -1,3 +1,4 @@
+# 🌟 Команда JessiXperience 🌟
 <div align="center">
 <p>
     <img width="200" src="https://github.com/JessiXperience/NewJessica/blob/alpha/NewJessica_logo.png">
