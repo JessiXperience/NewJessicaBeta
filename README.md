@@ -55,10 +55,7 @@ sudo dnf install java-17-openjdk
 sudo apt update
 sudo apt install openjdk-17-jdk
 
-
-
-
-#### **Установка Чита**
+### **Установка Чита**
        Вы можете установить чит вручную или автоматически.
    - **Автоматическая Установка**: Используйте GUI-установщик с [GitHub](https://github.com/JessiXperience/NewJessicaInstaller/releases/tag/NewJessicaInstaller).
 
@@ -192,7 +189,7 @@ NewJessica is the evolution of the Jessica project, originally created in 2018. 
         sudo apt update
         sudo apt install openjdk-17-jdk
 
-#### **Installing the Cheat**
+### **Installing the Cheat**
    You can install the cheat either manually or automatically.
    - **Automatic Installation**: Utilize the GUI installer available on [GitHub](https://github.com/JessiXperience/NewJessicaInstaller/releases/tag/NewJessicaInstaller).
 
