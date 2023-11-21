@@ -34,15 +34,15 @@ NewJessica это продолжение чита Jessica, созданного 
    - **Windows**: Выберите архитектуру вашего ПК, далее тип пакета: JDK, 17 версия. Скачиваете .msi установщик, запускаете и следуете инструкциям.
    - **Linux**: 
     **Debian:**
-# Обновите список пакетов
+#### Обновите список пакетов
 sudo apt update
-# Установите OpenJDK 17
+#### Установите OpenJDK 17
 sudo apt install openjdk-17-jdk
 
 **Gentoo**
-# Обновите портежи (это база данных пакетов Gentoo)
+#### Обновите портежи (это база данных пакетов Gentoo)
 sudo emerge --sync
-# Установите OpenJDK 17
+#### Установите OpenJDK 17
 sudo emerge -av dev-java/openjdk:17
 
 **Arch Linux**
@@ -169,32 +169,28 @@ NewJessica is the evolution of the Jessica project, originally created in 2018. 
    - **Windows**: Select your PC's architecture, then choose JDK for version 17. Download the .msi installer, run it, and follow the on-screen instructions.
    - **Linux**:
       - **Debian:**
-        ```shell
-        # Update the package list
+      
+     #### Update the package list
         sudo apt update
-        # Install OpenJDK 17
+     #### Install OpenJDK 17
         sudo apt install openjdk-17-jdk
-        ```
+        
       - **Gentoo:**
-        ```shell
-        # Update the portage tree (the Gentoo package database)
+        
+     #### Update the portage tree (the Gentoo package database)
         sudo emerge --sync
-        # Install OpenJDK 17
+     #### Install OpenJDK 17
         sudo emerge -av dev-java/openjdk:17
-        ```
+      
       - **Arch Linux:**
-        ```shell
         sudo pacman -S jdk-openjdk
-        ```
+      
       - **Fedora:**
-        ```shell
         sudo dnf install java-17-openjdk
-        ```
+        
       - **Ubuntu:**
-        ```shell
         sudo apt update
         sudo apt install openjdk-17-jdk
-        ```
 
 #### **Installing the Cheat**
    You can install the cheat either manually or automatically.
